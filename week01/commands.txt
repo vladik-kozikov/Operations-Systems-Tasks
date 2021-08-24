@@ -1,0 +1,10 @@
+ls /usr/bin | grep gcc.* | sort -r > ex1.txt
+-------------------------------
+history > ex2.txt
+-------------------------------
+nano ex3.sh
+sh ex3.sh
+-------------------------------
+nano main.c
+gcc main.c -o ex4
+./ex4

@@ -1,0 +1,14 @@
+1  whoami
+    2  mkdir /week1
+    3* cd /week1d
+    4  pwd
+    5  mkdir ~/week1
+    6  ls ../../usr/bin | grep gcc.* | sort -r> ex1.txt
+    7  cat ex1.txt
+    8  history
+    9  pwd
+   10  ls
+   11  ls usr/bin
+   12  ls /usr/bin
+   13  history/ex2.txt
+   14  history > ex2.txt
